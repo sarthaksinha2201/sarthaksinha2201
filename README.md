@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://sarthak-portfolio-two-mu.vercel.app">Portfolio</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/sarthak-sinha-404021253">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="mailto:sarthaksinha2008@gmail.com">Email</a>
+  <a href="https://sarthak-portfolio-two-mu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sarthak-sinha-404021253"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sarthaksinha2008@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -114,3 +114,13 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sarthaksinha2201&theme=tokyonight&no-frame=true&column=7" />
 </p>
+
+---
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarthaksinha2201/sarthaksinha2201/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarthaksinha2201/sarthaksinha2201/output/github-snake.svg" />
+  <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/sarthaksinha2201/sarthaksinha2201/output/github-snake.svg" />
+</picture>
